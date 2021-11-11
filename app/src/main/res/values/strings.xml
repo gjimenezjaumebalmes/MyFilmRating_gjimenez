@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFilmRating</string>
+    <string name="rottentomatoes">Rottentomatoes</string>
+    <string name="my_film_rates_app">My film rates app</string>
+    <string name="profile">Profile</string>
+    <string name="my_rates">My Rates</string>
+    <string name="todo">TODO</string>
+    <string name="movie_name">Movie name</string>
+    <string name="send">Send</string>
+</resources>
